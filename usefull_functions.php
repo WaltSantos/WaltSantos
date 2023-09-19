@@ -1,3 +1,5 @@
+<?php
+
 function html_table($data = array())
 {
   $rows = array();
